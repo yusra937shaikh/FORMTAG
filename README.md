@@ -33,9 +33,9 @@ FORM TAG &amp; ITS ATTRIBUTE
         <!-- Dropdown Menu -->
         <label for="country">COURSE</label>
         <select id="COURSE" name="COURSE">
-            <option value="india">BCA</option>
-            <option value="usa">BBA</option>
-            <option value="uk">B.TECH</option>
+            <option value="bca">BCA</option>
+            <option value="bba">BBA</option>
+            <option value="b.tech">B.TECH</option>
         </select><br><br>
         <!-- Submit Button -->
         <button type="submit">Submit</button> 
